@@ -1,6 +1,6 @@
 # BTech_Final_Year_Project.
 
-##How To Run:
+## How To Run:
 
 First Clone the repository from GitHub:[ GitHub Link@@](https://github.com/mdamaan08/BTech_Final_Year_Project)
 
